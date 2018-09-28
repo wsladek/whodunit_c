@@ -1,0 +1,1 @@
+whodunit creates a modified copy of clue.bmp to reveal the answer to "who done it?" hidden in the clue
